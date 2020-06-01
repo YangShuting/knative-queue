@@ -1,3 +1,3 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:3932262d4a44284f142f4c49f707526e70dd86317163a88a8cbb6de035a401a9
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:077d82a8f7b3f8c645e95abdf20acf1f1c5ea4d2215aa43ac707920914db5cf8
 MAINTAINER maryyang
 
